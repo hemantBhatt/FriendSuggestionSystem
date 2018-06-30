@@ -1,0 +1,7 @@
+Chat Based friend suggestion system.
+Group Members:
+
+Hemant Bhatt     	-Group Leader
+Pratik Bhoir
+Neelam Khasgiwala
+Ishika Mehta
